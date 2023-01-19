@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Reactloginapp/static/css/main.c2fd82c8.css",
+    "main.js": "/Reactloginapp/static/js/main.2c00784e.js",
+    "static/media/background.jpg": "/Reactloginapp/static/media/background.ada075528a553e80a5ad.jpg",
+    "index.html": "/Reactloginapp/index.html",
+    "main.c2fd82c8.css.map": "/Reactloginapp/static/css/main.c2fd82c8.css.map",
+    "main.2c00784e.js.map": "/Reactloginapp/static/js/main.2c00784e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2fd82c8.css",
+    "static/js/main.2c00784e.js"
+  ]
+}
